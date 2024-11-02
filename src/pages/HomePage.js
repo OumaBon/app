@@ -1,4 +1,4 @@
-import ProjectPage from "../pages/ProjectPage"
+
 import CoreSkills from "../components/CoreSkills"
 import ContactMe from "../components/ContactMe"
 import ListProjects from "../components/ListProjects"
